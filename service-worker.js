@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/raghunayudurayapudi/my-resume-template.git/precache-manifest.3b29acb5f6a8b17252b2a50c5693bf1a.js"
+  "/raghunayudurayapudi/my-resume-template/precache-manifest.9635ef35c32afcab30364ef109658434.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/raghunayudurayapudi/my-resume-template.git/index.html", {
+workbox.routing.registerNavigationRoute("/raghunayudurayapudi/my-resume-template/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
