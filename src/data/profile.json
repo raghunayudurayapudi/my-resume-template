@@ -1,0 +1,367 @@
+{
+    "Name": "Raghu Rayapudi",
+    "Img": "https://myresumeupdated.s3.amazonaws.com/profile.jpeg",
+    "Position": "Software Engineer/UI Developer",
+    "Description": "I am a Full Stack Developer, Node Js developer and Front End Developer creating awesome and effective Web pages for companies of all sizes around the globe. My recent interests are Angular and React and designing Hybrid and progressive web apps with MEAN Stack and Spring Boot. For my recent projects please check out my git Hub. ",
+    "Address": "Irving, Texas",
+    "Company": "Mythri Consulting",
+    "School": "Texas A&M University",
+    "SocialMedias": [
+      "https://github.com/raghunayudurayapudi",
+      "https://www.linkedin.com/in/raghu-rayapudi-63806814a/"
+    ],
+    "experiences": [
+      {
+        "companyName": "Southwest Airlines",
+        "logo": "https://myresumeupdated.s3.amazonaws.com/southwestAirlines.png",
+        "url": "https://www.southwest.com/",
+        "roles": [
+          {
+            "title": "Software Engineer",
+            "description": "My Account is a southwest.com user personal portal that helps customers to track past flights, upcoming trips, Recent Activity on the account and securely manage respective profile. End Goal of this Project is to transform Legacy application to adapt southwest vision technology stack. ",
+            "startDate": "2018-09",
+            "currentJob": true,
+            "location": "Dallas, TX"
+          }
+        ]
+      },
+      {
+        "companyName": "Transplace",
+        "logo": "https://myresumeupdated.s3.amazonaws.com/transplace-logo.png",
+        "url": "https://www.transplace.com/",
+        "roles": [
+          {
+            "title": "UI developer",
+            "description": "Working on conversion of legacy TMS (Transport Management Shipment) application, build on using Java, Swing, JSP, JSF into web based application utilizing Angular Framework. ",
+            "startDate": "2018-01",
+            "endDate": "2018-09",
+            "location": "Frisco, TX"
+          }
+        ]
+      },
+      {
+        "companyName": "Bottle Rocket",
+        "logo": "https://myresumeupdated.s3.amazonaws.com/bootleRocket.png",
+        "url": "https://www.bottlerocket.com/",
+        "roles": [
+          {
+            "title": "Front End Engineer",
+            "description": "Worked on developing MVP product for Canadian Onvio Customers.  Heavily involved in developing Angular 4 Application and AEM components for new Marketing Web pages which are going to get release by December.",
+            "startDate": "2017-08",
+            "endDate": "2018-01",
+            "location": "Addision TX"
+          }
+        ]
+      },
+      {
+        "companyName": "AT&T",
+        "logo": "https://myresumeupdated.s3.amazonaws.com/att.png",
+        "url": "https://www.att.com/",
+        "roles": [
+          {
+            "title": "Front End Developer",
+            "description": "Sales Express is an internal Project of AT&T to create a platform between the merchants and the AT&T.  Sales Express displays all the products and services offered by the AT&T, the project has two sections billings and support.  Role is to create UI pages consists of the tables and the forms to show all case details and comments of a case numbers generated based on the login credentials entered",
+            "startDate": "2016-09",
+            "endDate": "2017-08",
+            "location": "Dallas, Texas"
+          }
+        ]
+      },
+      {
+        "companyName": "VISA",
+        "logo": "https://myresumeupdated.s3.amazonaws.com/visa.png",
+        "url": "https://www.visa.com/",
+        "roles": [
+          {
+            "title": "Front End Developer",
+            "description": "Payment related System is a web application used for maintenance of the VISA card related transactions details between VISA and Banks.  This application enables different users such as Account Manager, Merchants, Users to view details of the transactions based on the login credentials.  The functionalities and views of user’s changes based on the hierarchy level.",
+            "startDate": "2015-02",
+            "endDate": "2016-09",
+            "location": "Foster City, CA"
+          }
+        ]
+      },
+      {
+        "companyName": "SPAN INFO TECH",
+        "logo": "https://myresumeupdated.s3.amazonaws.com/span-infotech-india.png",
+        "url": "https://www.google.com/",
+        "roles": [
+          {
+            "title": "UI Developer",
+            "description": "Facility management system is a web and mobile application used for maintenance and facility management.  This application enables the technicians and managers to dispatch work orders, handle all the in-house services, monitor the employees’ activities and the time that they spend to complete the work orders.  The administrator can create various user accounts and can designate roles and privileges.",
+            "startDate": "2013-05",
+            "endDate": "2014-05",
+            "location": "Bangalore, India"
+          }
+        ]
+      },
+      {
+        "companyName": "SOA SOFTWARE",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+        "url": "https://www.google.com/",
+        "roles": [
+          {
+            "title": "UI Developer",
+            "description": "Atmosphere Software, is an API management platform, which enterprises can utilize to manage, monitor and securely expose APIs to customers and developers. Key Capabilities of Atmosphere software is maintaining API definition, Content, policy and lifecycle management to ensure that API's are correctly structured and well documented. Atmosphere also provides security capabilities to help protect the API's from abuse and ensure privacy of the Customer data",
+            "startDate": "2012-05",
+            "endDate": "2013-05",
+            "location": "Hyderabad, India"
+          }
+        ]
+      }
+    ],
+    "Skills": [
+      {
+        "Area": "Programming Language",
+        "SkillSet": [
+          {
+            "Name": "JavaScript",
+            "Hot": true
+          },
+          {
+            "Name": "Java",
+            "Hot": true
+          },
+          {
+            "Name": "Python",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Web-Based Application Development",
+        "SkillSet": [
+          {
+            "Name": "JavaScript (ES5, ES6)",
+            "Hot": true
+          },
+          {
+            "Name": "Node Js - Express",
+            "Hot": true
+          },
+          {
+            "Name": "TypeScript",
+            "Hot": false
+          },
+          {
+            "Name": "HTML5",
+            "Hot": true
+          },
+          {
+            "Name": "CSS (SCSS/SASS)",
+            "Hot": true
+          },
+          {
+            "Name": "React",
+            "Hot": true
+          },
+          {
+            "Name": "React Native",
+            "Hot": true
+          },
+          {
+            "Name": "Angular",
+            "Hot": true
+          },
+          {
+            "Name": "Redux",
+            "Hot": false
+          },
+          {
+            "Name": "JQuery",
+            "Hot": false
+          },
+          {
+            "Name": "NPM",
+            "Hot": false
+          },
+          {
+            "Name": "Grunt",
+            "Hot": false
+          },
+          {
+            "Name": "Jamine JavaScript Unit Test",
+            "Hot": true
+          },
+          {
+            "Name": "WebPack",
+            "Hot": false
+          },
+          {
+            "Name": "UX/UI Design",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Database",
+        "SkillSet": [
+          {
+            "Name": "My SQL",
+            "Hot": true
+          },
+          {
+            "Name": "Microsoft SQL",
+            "Hot": false
+          },
+          {
+            "Name": "MongoDB",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Platforms",
+        "SkillSet": [
+          {
+            "Name": "Windows",
+            "Hot": false
+          },
+          {
+            "Name": "Unix/Linux",
+            "Hot": false
+          },
+          {
+            "Name": "Mac OS",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Java Suite",
+        "SkillSet": [
+          {
+            "Name": "Spring",
+            "Hot": true
+          },
+          {
+            "Name": "Spring Boot - Rest API",
+            "Hot": true
+          },
+          {
+            "Name": "JPA - Hibernate",
+            "Hot": true
+          },
+          {
+            "Name": "Cucumber",
+            "Hot": false
+          },
+          {
+            "Name": "Webservices",
+            "Hot": false
+          },
+          {
+            "Name": "Maven",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Test Driven Development",
+        "SkillSet": [
+          {
+            "Name": "Junit Test",
+            "Hot": false
+          },
+          {
+            "Name": "Jasmine Test",
+            "Hot": true
+          },
+          {
+            "Name": "MSTest",
+            "Hot": false
+          },
+          {
+            "Name": "Selenium Functional Test",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Software Development Tools and Concepts",
+        "SkillSet": [
+          {
+            "Name": "Git",
+            "Hot": true
+          },
+          {
+            "Name": "Docker",
+            "Hot": false
+          },
+          {
+            "Name": "Jenkins",
+            "Hot": false
+          },
+          {
+            "Name": "Agile",
+            "Hot": true
+          }
+        ]
+      }
+    ],
+    "Projects": [
+      {
+        "Name": "Southwest MyAccount",
+        "Description": "My Account is a southwest.com user personal portal that helps customers to track past flights, upcoming trips, Recent Activity on the account and securely manage respective profile. End Goal of this Project is to transform Legacy application to adapt southwest vision technology stack.",
+        "ScreenShotURL": [
+          {"url":"https://myresumeupdated.s3.amazonaws.com/southwest1.png", "alt": "southwest"},
+          {"url":"https://myresumeupdated.s3.amazonaws.com/southwest2.png", "alt": "southwest"},
+          {"url":"https://myresumeupdated.s3.amazonaws.com/southwest3.png", "alt": "southwest"},
+          {"url":"https://myresumeupdated.s3.amazonaws.com/southwest4.png", "alt": "southwest"}
+        ],
+        "ProjectLink":"http://southwest.com/"
+      },
+      {
+        "Name": "Transplace",
+        "Description": "TMS (Transport Management Shipment) application , Control Tower is a Real application desgined to track shipment information in real time",
+        "ScreenShotURL": [
+          {"url":"https://myresumeupdated.s3.amazonaws.com/transplace1.png", "alt": "transplace"},
+          {"url":"https://myresumeupdated.s3.amazonaws.com/transplace2.png", "alt": "transplace"},
+          {"url":"https://myresumeupdated.s3.amazonaws.com/transplace3.png", "alt": "transplace"}
+        ],
+        "ProjectLink":"http://transplace.com/"
+      },
+      {
+        "Name": "ATT",
+        "Description": "Sales Express is an Ecommere soution degsinged for ATT customers",
+        "ScreenShotURL": [
+          {"url":"https://myresumeupdated.s3.amazonaws.com/att1.png", "alt": "att"},
+          {"url":"https://myresumeupdated.s3.amazonaws.com/att2.png", "alt": "att"},
+          {"url":"https://myresumeupdated.s3.amazonaws.com/att3.png", "alt": "att"}
+        ],
+        "ProjectLink":"http://att.com/"
+      }
+    ],
+    "Education": [
+      {
+        "SchoolName": "Texas A&M University",
+        "Date": "May 2014 - May 2015",
+        "Degree": "Masters of Computer Science",
+        "Location": "Kingsville, TX. USA",
+        "Description": "Demo",
+        "Grade": "3.98",
+        "SchoolImage": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+        "SchoolLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+        "Awards": [
+          {
+            "Name": "International Student Merit Scholarship $1000",
+            "Date": "May 2014 - May 2015",
+            "Region": "Kingsville TX.",
+            "Organization": "Texas A&M University"
+          }
+        ]
+      },
+      {
+        "SchoolName": "Shiv Nadar University",
+        "Date": "May 2012 - May 2008",
+        "Degree": "Electronics Communication Engineering",
+        "Location": "INDIA",
+        "Description": "Demo",
+        "Grade": "7.68",
+        "SchoolImage": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+        "SchoolLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+        "Awards": [
+        ]
+      }
+    ]
+  }

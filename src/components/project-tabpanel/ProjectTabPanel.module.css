@@ -1,0 +1,16 @@
+.projectPanel {
+    padding: 40px;
+}
+
+.projectDescription, .projectName {
+    pointer-events: none;
+}
+
+.openDetail {
+    outline: none !important;
+}
+
+.protfileImage {
+    width: 100%;
+    height: 400px;
+}
